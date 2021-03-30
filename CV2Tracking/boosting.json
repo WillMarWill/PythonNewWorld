@@ -1,0 +1,9 @@
+{
+    "my_object": {
+        "numClassifiers": 5,
+        "overlap": 5.0,
+        "searchFactor": 8.0,
+        "iterationInit": 6,
+        "samplerSearchFactor": 4.0
+    }
+}

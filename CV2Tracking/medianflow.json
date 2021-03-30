@@ -1,0 +1,11 @@
+{
+    "my_object": {
+        "pointsInGrid": 10,
+        "winSize": [ 3, 6 ],
+        "maxLevel": 5,
+        "termCriteria_maxCount": 25,
+        "termCriteria_epsilon": 2.9999999999999999e-01,
+        "winSizeNCC": [ 20, 20 ],
+        "maxMedianLengthOfDisplacementDifference": 50.0
+    }
+}

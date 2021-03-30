@@ -1,0 +1,11 @@
+{
+    "my_object": {
+        "samplerInitInRadius": 2.0,
+        "samplerSearchWinSize": 5.0,
+        "samplerInitMaxNegNum": 4,
+        "samplerTrackInRadius": 3.0,
+        "samplerTrackMaxPosNum": 2,
+        "samplerTrackMaxNegNum": 3,
+        "featureSetNumFeatures": 4
+    }
+}
